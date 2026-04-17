@@ -23,6 +23,17 @@ Music OFF:	E
 
 Restart Game:	ENTER (After Game Over)
 
+## 📸Screenshots
+
+### Main Menu
+![The first page showing controls](portfolio/game-1.jpg)
+
+### Gameplay
+![Hero jumping over obstacles](portfolio/game-2.jpg)
+
+### Game Over
+![The last page showing the restart option](portfolio/game-4.jpg)
+
 #🛠️ Technical Details
 ​Language: C++
 ​Platform: Windows
